@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/github/downloads/sandwich-machine/sandwich-machine/total?style=for-the-badge"/>
 </p>
 
+# This version of sandwich machine will still receive updates occasionally
+Despite having been largely replaced by [the js port](https://github.com/sandwich-machine/sandwich-machine), this version will still receive some updates
+
 ## How To Run
 1. Install [python](https://www.python.org/downloads/) if you haven't already.
 2. Double click run.bat (or run.sh if you're on mac or linux)
