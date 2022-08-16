@@ -1,3 +1,3 @@
 #!/bin/bash
-// Run main.py
+# Run main.py
 python3 main.py
